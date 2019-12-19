@@ -1,0 +1,7 @@
+LOAD
+
+     Rand() * (1.05-0.85 ) + 0.85  AS myRandomNumber
+
+AUTOGENERATE
+
+     10;
